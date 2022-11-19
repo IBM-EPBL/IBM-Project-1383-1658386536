@@ -14,4 +14,20 @@ An automated system is introduced to identify different diseases on plants by ch
 
 Technical Architecture :-
 ![image](https://user-images.githubusercontent.com/83709197/202851753-270602ed-9271-4c84-9193-e4f09c36d41e.png)
+
+A web Application is built  where 
+Farmers can interact with the portal build
+Interacts with the user interface to upload images of diseased leaf
+Our model built analyses the Disease and suggests the farmer with fertilizers are to be used 
+
+To accomplish the above task you must complete the below activities and tasks 
+Download the dataset.
+Classify the dataset into train and test sets.
+Add the neural network layers.
+Load the trained images and fit the model. 
+Test the model.
+Save the model and its dependencies.
+Build a Web application using a flask that integrates with the model built.
+
+
 Demo Video link:https://drive.google.com/file/d/1Gy52ZZCge2dkl6qt6CX61mwJo6fPObSE/view?usp=drivesdk
