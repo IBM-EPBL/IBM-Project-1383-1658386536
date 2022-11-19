@@ -30,4 +30,13 @@ Save the model and its dependencies.
 Build a Web application using a flask that integrates with the model built.
 
 
+
+PROJECT DONE BY:-
+Pavithra S(Team Leader)
+Kokila Devi T
+Nivedha G
+Pavithra K
+Thanuja Shri K
+
+
 Demo Video link:https://drive.google.com/file/d/1Gy52ZZCge2dkl6qt6CX61mwJo6fPObSE/view?usp=drivesdk
