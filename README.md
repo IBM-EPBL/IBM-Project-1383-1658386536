@@ -32,11 +32,11 @@ Build a Web application using a flask that integrates with the model built.
 
 
 PROJECT DONE BY:-
-Pavithra S(Team Leader)
-Kokila Devi T
-Nivedha G
-Pavithra K
-Thanuja Shri K
+731119205031-Pavithra S(Team Leader),
+731119205017-Kokila Devi T,
+731119205029-Nivedha G,
+731119205030-Pavithra K,
+731119205044-Thanuja Shri K
 
 
 Demo Video link:https://drive.google.com/file/d/1Gy52ZZCge2dkl6qt6CX61mwJo6fPObSE/view?usp=drivesdk
