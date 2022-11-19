@@ -39,4 +39,5 @@ PROJECT DONE BY:-
 731119205044-Thanuja Shri K
 
 
-Demo Video link:https://drive.google.com/file/d/1Gy52ZZCge2dkl6qt6CX61mwJo6fPObSE/view?usp=drivesdk
+Demo Video link-Drive:https://drive.google.com/file/d/1Gy52ZZCge2dkl6qt6CX61mwJo6fPObSE/view?usp=drivesdk
+Demo Video Link-Youtube:https://youtu.be/QSTVkjtb6YA
